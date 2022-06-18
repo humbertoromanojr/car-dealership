@@ -1,9 +1,17 @@
+import { AppBar, CssBaseline, ThemeProvider, Toolbar, Typography } from "@mui/material";
+import theme from "./theme";
 
 function App() {
   return (
-    <div>
-      <h1>Hello World!!</h1>
-    </div>
+    <ThemeProvider theme={theme}>
+      <CssBaseline/>{/* <=== apply background all app */}
+
+      <AppBar>
+        <Toolbar>
+          <Typography variant="h5">Full Cycle Delivery</Typography>
+        </Toolbar>
+      </AppBar>
+    </ThemeProvider>
   );
 }
 
