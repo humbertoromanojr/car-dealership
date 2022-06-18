@@ -1,8 +1,6 @@
 <h1 align="center">
-  <img src="https://i.ibb.co/djYWNvb/ts-react-material-Ui.jpg" width="200px" alt="ts-react-material-ui" border="0">
+  <img src="https://i.ibb.co/djYWNvb/ts-react-material-Ui.jpg" width="250px" alt="ts-react-material-ui" border="0">
 <br>
-<br>
-REACT and Material UI
 </h1>
 
 ## About Project
