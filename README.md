@@ -1,3 +1,77 @@
+<h1 align="center">
+  <img src="https://i.ibb.co/djYWNvb/ts-react-material-Ui.jpg" width="200px" alt="ts-react-material-ui" border="0">
+<br>
+<br>
+REACT and Material UI
+</h1>
+
+## About Project
+Study project with ReactJS, TypeScript, Material and more..., to improve my knowledge in this framework and in this wonderful css library
+
+> Status do Projeto: Under development => :construction: :construction: :construction::construction:
+
+
+![Badge](https://img.shields.io/static/v1?label=react&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
+
+![Badge](https://img.shields.io/github/issues/humbertoromanojr/car-dealership?logo=visual-studio-code&style=plastic&logo=appveyor)
+![Badge](https://img.shields.io/github/forks/humbertoromanojr/car-dealership)
+![Badge](https://img.shields.io/github/stars/humbertoromanojr/car-dealership)
+![Badge](https://img.shields.io/github/license/humbertoromanojr/car-dealership)
+![Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fhumbertoromanojr%2Fcar-dealership)
+
+## WEB
+
+- ⚛️ **React Js** — A JavaScript library for building user interfaces
+
+- [ReactJS](https://reactjs.org/) :sparkling_heart:
+- [Material-UI](https://mui.com/pt/material-ui/getting-started/installation/)
+- [TypeScript](https://www.typescriptlang.org/docs/)
+
+
+## Installation
+
+Copy project to repository
+`git clone https://github.com/humbertoromanojr/car-dealership.git`
+
+Install node_modules 
+`npm or yarn install`
+
+Start Bundle
+`npm or yarn start`
+
+
+## Sources
+
+- https://www.youtube.com/watch?v=Ibb-7R7oiLo
+
+
+## Demonstration
+
+<br>
+  
+<br>
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+
+## Author
+
+<img src="https://avatars1.githubusercontent.com/u/6500430?s=460&u=42d7e22fa1c77b061505fe1cfc3fcaa3e2a4d1e5&v=4" width="80" alt="linkedin.com/in/junior-dev">
+:guitar: JR Dev :guitar:
+<br />
+
+LinkedIn: https://www.linkedin.com/in/junior-dev <br />
+GitLab: https://gitlab.com/hjrdev <br />
+Email: astronomi@gmail.com <br />
+<br />
+
+Made with :heart: and lots of animation by :guitar: JR Dev :guitar:
+
+###
+##
+#
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
