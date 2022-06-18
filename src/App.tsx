@@ -13,6 +13,9 @@ import { styled } from "@mui/material/styles";
 import { Loader } from "google-maps";
 import { getCurrentPosition } from "./utils/geolocation";
 
+const GOOGLE_MAPS_API_KEY="SUA_API_DO_GOOGLE_MAPS_AQUI";
+const loader = new Loader(GOOGLE_MAPS_API_KEY);
+
 const Form = styled("form")(({ theme: _theme }) => ({
   margin: _theme.spacing(1)
 }));
