@@ -45,7 +45,7 @@ Start Bundle
 
 ## Demonstration
 <h2 align="center">
-<img src="https://i.ibb.co/FJ406s6/google-maps.png" alt="google-maps" border="0">
+<img src="https://i.ibb.co/FJ406s6/google-maps.png" width="100%" alt="google-maps" border="0">
 </h2>  
 <br>
 
