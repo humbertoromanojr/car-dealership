@@ -6,7 +6,7 @@ function App() {
     <ThemeProvider theme={theme}>
       <CssBaseline/>{/* <=== apply background all app */}
 
-      <AppBar>
+      <AppBar position="static">
         <Toolbar>
           <Typography variant="h5">Full Cycle Delivery</Typography>
         </Toolbar>
