@@ -44,8 +44,9 @@ Start Bundle
 
 
 ## Demonstration
-<img src="https://i.ibb.co/jGkWhVh/google-maps.png" width="100%" alt="google-maps" border="0">
- 
+<h2 align="center">
+  <img src="https://i.ibb.co/jGkWhVh/google-maps.png" width="100%" alt="google-maps" border="0">
+</h2>  
 <br>
 
 ## License
