@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.ibb.co/djYWNvb/ts-react-material-Ui.jpg" width="250px" alt="ts-react-material-ui" border="0">
+  <img src="https://i.ibb.co/djYWNvb/ts-react-material-Ui.jpg" width="100%" alt="ts-react-material-ui" border="0">
 <br>
 </h1>
 
